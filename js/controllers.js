@@ -1,6 +1,6 @@
 var sampleControllers = angular.module('sampleControllers', []);
 
-var title = "CLOUD DOC WEBSITE";
+var title = "My Sample Application";
 
 sampleControllers.controller('homeController', ['$scope', '$http', '$window', function($scope, $http, $window) {
 
